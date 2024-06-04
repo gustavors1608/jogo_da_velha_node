@@ -1,0 +1,16 @@
+{
+  "name": "projeto_node_1",
+  "version": "1.0.0",
+  "description": "projeto de teste para primeira aula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gustavo stroschon",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "figlet": "^1.7.0",
+    "readline-sync": "^1.4.10"
+  }
+}
